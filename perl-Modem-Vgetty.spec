@@ -2,7 +2,7 @@
 %define		pdir	Modem
 %define		pnam	Vgetty
 Summary:	Modem::Vgetty - interface to vgetty(8)
-Summary(pl):	Modem::Vgetty - interfejs do vgetty(8)
+Summary(pl.UTF-8):   Modem::Vgetty - interfejs do vgetty(8)
 Name:		perl-Modem-Vgetty
 Version:	0.03
 Release:	2
@@ -22,11 +22,11 @@ voice modems using the vgetty(8) or vm(8) package. The answering
 machines and sofisticated voice applications can be written using
 this module.
 
-%description -l pl
-Modem::Vgetty to obiekt hermetyzuj±cy do pisania aplikacji dla modemÛw
-g≥osowych przy uøyciu pakietÛw vgetty(8) lub vm(8). Moøna przy uøyciu
-tego modu≥u pisaÊ automaty odpowiadaj±ce i przemy∂lne aplikacje
-g≥osowe.
+%description -l pl.UTF-8
+Modem::Vgetty to obiekt hermetyzujƒÖcy do pisania aplikacji dla modem√≥w
+g≈Çosowych przy u≈ºyciu pakiet√≥w vgetty(8) lub vm(8). Mo≈ºna przy u≈ºyciu
+tego modu≈Çu pisaƒá automaty odpowiadajƒÖce i przemy≈õlne aplikacje
+g≈Çosowe.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-%{version}
