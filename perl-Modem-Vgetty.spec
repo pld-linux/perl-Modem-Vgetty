@@ -5,7 +5,7 @@ Summary:	Modem::Vgetty - interface to vgetty(8)
 Summary(pl.UTF-8):	Modem::Vgetty - interfejs do vgetty(8)
 Name:		perl-Modem-Vgetty
 Version:	0.03
-Release:	2
+Release:	3
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
