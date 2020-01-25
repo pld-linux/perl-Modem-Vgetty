@@ -1,6 +1,5 @@
 %define		pdir	Modem
 %define		pnam	Vgetty
-%include	/usr/lib/rpm/macros.perl
 Summary:	Modem::Vgetty - interface to vgetty(8)
 Summary(pl.UTF-8):	Modem::Vgetty - interfejs do vgetty(8)
 Name:		perl-Modem-Vgetty
